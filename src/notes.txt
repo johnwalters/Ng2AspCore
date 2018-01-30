@@ -6,3 +6,5 @@ To run your builds, you now need to do the following commands:
    - "npm run e2e" to run protractor.
 
 Running the equivalent CLI commands will result in an error.
+
+Pre-docker note.
