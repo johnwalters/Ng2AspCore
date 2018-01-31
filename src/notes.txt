@@ -13,3 +13,5 @@ docker instructions : https://www.infopulse.com/blog/tutorial-creating-asp-net-c
 
 docker build bin\Debug\netcoreapp1.1\publish -t ng2aspcorecontainer
 docker run -it -d -p 8123:80 ng2aspcorecontainer
+
+deploying to azure container instance: https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal
