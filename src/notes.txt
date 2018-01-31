@@ -8,3 +8,8 @@ To run your builds, you now need to do the following commands:
 Running the equivalent CLI commands will result in an error.
 
 Pre-docker note.
+
+docker instructions : https://www.infopulse.com/blog/tutorial-creating-asp-net-core-angular-4-app-in-docker-container-connected-to-sql-azure-database/#part2
+
+docker build bin\Debug\netcoreapp1.1\publish -t ng2aspcorecontainer
+docker run -it -d -p 8123:80 ng2aspcorecontainer

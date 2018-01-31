@@ -8,3 +8,4 @@ C:\Projects\Ng2AspCore\obj\Debug\netcoreapp2.0\Ng2AspCore.AssemblyInfoInputs.cac
 C:\Projects\Ng2AspCore\obj\Debug\netcoreapp2.0\Ng2AspCore.AssemblyInfo.cs
 C:\Projects\Ng2AspCore\obj\Debug\netcoreapp2.0\Ng2AspCore.dll
 C:\Projects\Ng2AspCore\obj\Debug\netcoreapp2.0\Ng2AspCore.pdb
+C:\Projects\Ng2AspCore\bin\Debug\netcoreapp2.0\Dockerfile
